@@ -15,18 +15,3 @@ Users can input their interests, skills, and personality traits using sliders, a
 - Handles rare career classes safely
 
 ---
-
-## Demo
-
-![Career Predictor Demo](demo_screenshot.png)  
-*(Replace this with an actual screenshot of your app if available)*
-
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/career-recommender.git
-cd career-recommender
