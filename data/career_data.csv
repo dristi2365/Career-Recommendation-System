@@ -1,0 +1,168 @@
+interest_coding	interest_design	interest_science	interest_art	interest_cooking	interest_travel	interest_business	math_skill	creativity	communication	introvert_extrovert	problem_solving	interest_technology	interest_writing	interest_music	interest_helping_others	leadership	attention_to_detail	physical_stamina	career
+5	2	4	1	1	1	3	5	3	2	1	5	5	2	1	1	2	4	1	Software Engineer
+5	1	5	1	1	1	3	5	3	2	1	5	5	1	1	1	2	4	1	Data Scientist
+5	2	4	1	1	1	4	5	3	3	2	5	5	2	1	1	3	5	1	Data Analyst
+5	2	5	1	1	1	3	5	4	2	1	5	5	2	1	1	2	4	1	AI Engineer
+5	1	5	1	1	1	3	5	4	2	1	5	5	1	1	1	2	4	1	Machine Learning Engineer
+4	1	4	1	1	1	3	4	3	2	2	5	5	2	1	1	2	5	2	Cybersecurity Analyst
+4	1	3	1	1	1	3	4	2	3	2	5	5	1	1	1	2	4	1	System Administrator
+4	1	4	1	1	1	2	4	2	2	2	5	5	1	1	1	2	4	1	Network Engineer
+5	2	4	1	1	1	3	5	3	2	1	5	5	1	1	1	3	4	1	Cloud Architect
+5	1	4	1	1	1	3	5	3	2	1	5	5	1	1	1	2	4	1	DevOps Engineer
+5	3	3	3	1	1	2	4	5	2	1	5	5	2	2	1	2	3	1	Game Developer
+5	3	3	2	1	1	3	4	4	2	1	5	5	2	1	1	2	3	1	Mobile App Developer
+5	4	3	3	1	1	3	4	4	2	1	4	5	2	1	1	2	3	1	Web Developer
+4	1	5	1	1	1	2	5	2	2	1	5	5	1	1	1	2	5	1	Embedded Systems Engineer
+3	1	5	1	1	1	2	5	2	2	1	5	5	1	1	1	2	5	2	Hardware Engineer
+4	2	5	1	1	1	2	5	3	2	1	5	5	1	1	1	2	5	2	Robotics Engineer
+3	1	4	1	1	1	2	4	2	2	2	4	5	1	1	1	2	4	1	Telecommunications Engineer
+4	2	5	1	1	1	2	5	3	2	1	5	5	1	1	1	2	5	2	Mechatronics Engineer
+4	1	5	1	1	1	2	5	2	2	1	5	5	1	1	1	2	5	1	Control Systems Engineer
+5	1	5	1	1	1	2	5	4	2	1	5	5	2	1	1	1	5	1	Quantum Computing Researcher
+5	1	4	1	1	1	4	5	3	2	1	5	5	1	1	1	2	4	1	Blockchain Developer
+5	4	3	4	1	1	3	4	5	2	1	5	5	2	1	1	2	3	1	AR/VR Developer
+4	1	3	1	1	1	3	4	2	2	1	5	5	1	1	1	2	5	1	Database Administrator
+4	2	3	1	1	2	4	4	3	4	3	4	5	2	1	2	4	3	1	IT Consultant
+3	2	3	2	1	2	3	3	3	4	2	3	4	5	1	2	2	4	1	Technical Writer
+3	2	3	1	1	2	5	4	3	5	4	5	4	3	1	2	4	4	1	Business Analyst
+3	1	3	1	1	2	5	4	3	4	3	5	4	2	1	2	4	5	1	Operations Analyst
+3	1	4	1	1	1	4	5	3	4	2	5	4	2	1	2	3	5	1	Risk Analyst
+3	2	3	1	1	2	5	4	4	4	3	5	4	3	1	2	4	4	1	Strategy Analyst
+4	1	5	1	1	1	4	5	3	2	1	5	4	1	1	1	2	5	1	Quantitative Analyst
+3	1	5	1	1	1	4	5	2	3	2	5	3	1	1	1	2	5	1	Actuarial Analyst
+3	1	3	1	1	3	5	4	3	4	3	5	4	2	1	2	4	4	2	Supply Chain Analyst
+2	1	3	1	1	2	4	4	3	5	3	4	3	4	1	3	4	4	1	Policy Analyst
+3	2	3	1	1	2	5	4	3	5	3	4	4	3	1	2	3	4	1	Market Research Analyst
+2	1	3	1	1	1	4	4	2	4	2	4	3	3	1	2	3	5	1	Compliance Officer
+3	1	4	1	1	1	5	5	3	4	2	5	4	2	1	1	3	5	1	Financial Analyst
+3	1	4	1	1	2	5	5	3	4	2	5	4	2	1	1	3	5	1	Investment Analyst
+3	1	4	1	1	1	5	5	2	4	2	5	3	2	1	1	3	5	1	Credit Analyst
+2	1	5	1	1	1	2	5	3	2	1	5	4	2	1	1	1	5	1	Physicist
+2	1	5	1	1	1	2	5	2	2	1	5	3	1	1	1	1	5	2	Chemist
+1	1	5	1	1	2	2	4	2	2	2	4	3	2	1	3	1	4	2	Biologist
+2	1	5	1	1	1	2	5	2	2	1	5	3	1	1	2	1	5	2	Microbiologist
+2	1	5	1	1	1	2	5	3	2	1	5	3	2	1	2	1	5	1	Geneticist
+2	1	5	1	1	1	2	5	3	2	1	5	4	2	1	3	1	5	1	Neuroscientist
+2	1	5	1	1	2	3	5	2	3	2	5	3	2	1	4	2	5	2	Epidemiologist
+2	1	5	1	1	1	2	5	2	2	1	5	4	1	1	3	1	5	2	Biomedical Scientist
+2	1	5	1	1	2	1	5	3	2	1	5	4	2	1	1	1	5	1	Astronomer
+2	2	5	2	1	4	3	4	3	3	2	4	3	3	1	4	2	4	3	Environmental Scientist
+1	1	5	1	1	4	2	4	2	2	2	4	3	2	1	2	1	4	4	Geologist
+1	1	5	1	1	4	2	4	2	2	2	4	3	2	1	3	1	4	4	Oceanographer
+4	1	5	1	1	1	3	5	2	3	1	5	4	1	1	1	2	5	1	Statistician
+3	1	5	1	1	1	2	5	3	2	1	5	3	2	1	1	1	5	1	Mathematician
+3	1	5	1	1	1	2	5	3	2	1	5	4	2	1	2	1	5	1	Research Scientist
+2	1	5	1	1	1	2	4	1	2	2	4	3	1	1	2	1	5	2	Lab Technician
+2	1	5	1	1	1	2	5	1	2	1	5	3	1	1	3	1	5	2	Medical Lab Scientist
+2	1	5	1	1	1	3	5	2	3	2	4	3	2	1	4	2	5	2	Pharmacist
+3	1	5	1	1	1	3	5	3	2	1	5	4	1	1	2	2	5	1	Biotechnologist
+4	2	5	1	1	2	3	5	3	2	1	5	5	1	1	1	2	5	2	Aerospace Engineer
+3	1	5	1	1	1	2	5	2	2	1	5	4	1	1	1	2	5	2	Nuclear Engineer
+3	2	5	1	1	2	3	5	3	2	1	5	5	1	1	2	2	4	2	Renewable Energy Engineer
+2	3	5	2	1	2	3	5	3	3	2	5	4	1	1	1	3	5	3	Civil Engineer
+3	1	5	1	1	1	3	5	3	2	1	5	5	1	1	1	2	5	3	Mechanical Engineer
+4	1	5	1	1	1	2	5	2	2	1	5	5	1	1	1	2	5	2	Electrical Engineer
+3	1	5	1	1	1	3	5	2	2	1	5	4	1	1	1	2	5	2	Chemical Engineer
+2	2	5	1	1	1	3	5	2	3	1	5	4	1	1	1	3	5	3	Structural Engineer
+3	5	2	5	1	2	3	2	5	3	2	3	3	2	2	1	2	3	1	Graphic Designer
+4	5	2	4	1	2	4	3	5	4	2	4	5	3	1	3	3	4	1	UX Designer
+4	5	2	4	1	2	3	3	5	3	2	4	5	2	1	2	3	4	1	UI Designer
+1	5	2	5	1	3	3	2	5	3	3	3	3	2	2	2	3	4	2	Interior Designer
+1	5	1	5	1	3	4	2	5	4	3	3	3	2	2	2	3	4	1	Fashion Designer
+1	5	1	5	1	2	3	2	5	3	2	3	3	2	2	1	2	4	1	Textile Designer
+1	5	1	5	1	2	2	2	5	2	2	3	2	2	2	1	1	4	3	Ceramic Artist
+1	5	1	5	1	2	2	2	5	3	2	3	3	3	2	1	1	4	1	Illustrator
+3	5	2	5	1	2	2	3	5	3	2	4	5	2	2	1	2	4	1	Animation Artist
+3	5	2	4	1	2	3	3	5	3	2	4	5	2	2	1	2	4	1	Motion Graphics Designer
+1	5	1	5	1	3	3	2	5	4	3	3	3	3	2	2	3	4	2	Set Designer
+2	5	1	5	1	2	4	2	5	4	3	4	4	3	2	2	4	4	1	Art Director
+2	5	1	5	1	2	5	2	5	5	4	4	4	4	2	2	5	3	1	Creative Director
+1	5	1	5	1	3	3	2	5	4	3	3	3	2	2	2	3	4	2	Exhibition Designer
+1	5	1	5	1	3	4	2	5	4	4	3	3	2	2	2	3	4	2	Visual Merchandiser
+1	4	2	5	1	4	3	2	5	3	2	3	3	2	2	1	2	4	2	Photographer
+2	4	2	4	1	4	3	2	5	3	2	3	4	3	2	1	2	4	2	Videographer
+2	4	2	5	1	3	4	2	5	4	3	4	4	4	3	2	4	4	2	Filmmaker
+1	5	1	5	1	2	2	1	5	2	1	2	2	3	2	1	1	4	1	Painter
+1	4	2	5	1	2	2	2	5	2	2	3	2	2	2	1	1	4	3	Sculptor
+1	2	2	3	1	3	2	2	5	4	1	3	2	5	3	2	2	4	1	Writer
+2	3	2	3	1	4	3	2	4	5	4	4	3	5	2	3	3	3	2	Journalist
+2	4	2	4	1	4	4	2	5	5	4	3	4	5	3	2	3	3	1	Content Creator
+1	3	2	3	1	2	4	2	5	4	2	3	3	5	2	2	2	4	1	Copywriter
+2	3	2	4	1	3	3	2	5	4	2	3	3	5	3	2	2	4	1	Script Writer
+1	2	2	3	1	3	3	1	4	5	4	3	3	5	4	3	3	3	1	Podcast Host
+2	4	2	4	1	4	4	2	5	5	4	3	4	4	3	2	3	3	1	YouTuber
+1	3	2	4	1	5	3	1	5	5	3	2	3	5	2	2	2	3	3	Travel Blogger
+1	3	1	3	5	3	3	1	5	5	3	2	3	5	2	2	2	3	2	Food Blogger
+2	4	2	4	1	3	4	2	5	5	4	3	4	4	2	2	3	3	1	Social Media Manager
+2	3	2	3	1	3	4	2	4	5	5	3	4	4	2	4	4	3	1	Community Manager
+2	4	2	3	1	3	5	3	5	5	4	4	4	4	2	2	4	4	1	Brand Manager
+1	3	1	2	1	3	4	2	4	5	5	3	3	4	2	3	4	3	1	Public Relations Specialist
+1	4	1	4	1	4	4	1	5	5	4	2	4	4	3	2	3	2	2	Influencer
+2	2	2	3	1	2	3	3	4	4	2	4	3	5	2	2	2	5	1	Editor
+3	3	2	3	2	3	5	4	5	5	4	5	4	4	2	2	5	3	2	Entrepreneur
+4	3	3	2	1	2	5	4	4	5	3	5	5	3	1	2	5	4	1	Product Manager
+2	2	3	1	1	2	5	4	3	5	3	5	4	2	1	2	5	5	2	Operations Manager
+3	2	3	1	1	2	5	4	4	5	3	5	4	3	1	2	5	4	1	Management Consultant
+3	4	2	3	1	3	5	3	5	5	4	4	5	4	2	2	3	3	1	Digital Marketing Specialist
+2	4	2	3	1	3	5	3	5	5	4	4	4	4	2	2	4	4	1	Marketing Manager
+2	2	2	2	1	2	4	3	3	5	5	4	3	3	1	5	5	4	1	Human Resource Manager
+3	2	3	1	1	3	5	4	4	5	4	5	4	3	1	2	5	3	2	Business Development Manager
+3	2	3	1	1	2	5	4	3	5	3	5	4	3	1	2	5	5	1	Project Manager
+1	4	1	3	2	4	5	2	5	5	5	4	3	3	2	3	5	4	3	Event Manager
+1	3	2	3	1	5	5	2	4	5	5	3	3	3	2	3	4	3	3	Tourism Manager
+1	3	1	2	1	3	5	3	3	5	5	3	3	2	1	2	4	3	2	Real Estate Agent
+2	1	3	1	1	1	5	5	2	4	2	5	3	2	1	1	4	5	1	Finance Manager
+2	1	3	1	1	1	4	5	2	3	2	4	3	2	1	1	3	5	1	Auditor
+2	1	3	1	1	1	4	5	2	3	2	4	3	1	1	1	2	5	1	Accountant
+2	1	5	1	1	2	3	5	2	5	3	5	3	2	1	5	4	5	3	Doctor
+2	1	5	1	1	2	2	4	2	5	4	4	3	2	1	5	3	4	4	Nurse
+2	1	5	1	1	1	3	5	2	4	2	5	3	1	1	4	3	5	3	Dentist
+1	1	4	1	1	2	2	3	2	5	4	4	2	2	1	5	3	4	5	Physiotherapist
+1	2	4	2	1	2	3	3	3	5	3	4	2	4	2	5	3	4	1	Psychologist
+2	1	5	1	1	2	3	5	2	5	2	5	3	3	1	5	4	5	1	Psychiatrist
+1	1	4	1	4	2	3	4	2	5	3	4	2	3	1	5	3	4	2	Nutritionist
+2	1	5	1	1	1	3	5	3	4	1	5	3	1	1	4	4	5	3	Surgeon
+2	1	5	1	1	2	2	4	2	4	3	5	3	2	1	5	3	4	5	Paramedic
+1	2	4	2	1	2	2	3	3	5	4	4	2	2	1	5	3	4	3	Occupational Therapist
+1	2	3	2	1	2	2	3	3	5	4	4	2	4	3	5	3	4	1	Speech Therapist
+1	1	5	1	1	2	2	5	2	4	2	5	3	1	1	5	3	5	3	Veterinarian
+2	1	4	1	1	3	4	4	2	5	3	4	3	3	1	5	4	4	2	Public Health Officer
+4	1	5	1	1	1	4	5	3	3	2	5	5	2	1	3	3	5	1	Health Data Analyst
+2	2	3	3	1	2	3	3	4	5	4	3	3	4	2	5	4	3	2	Teacher
+3	1	5	2	1	2	3	5	3	4	2	5	3	4	2	4	3	4	1	Professor
+2	2	2	2	1	2	4	3	3	5	4	4	3	4	2	5	4	3	1	Career Counselor
+1	2	2	2	1	2	3	3	3	5	4	4	2	4	2	5	4	3	1	School Counselor
+1	2	2	2	1	3	3	2	3	5	5	3	2	4	2	5	4	3	3	Social Worker
+1	2	3	2	1	4	4	2	3	5	5	3	2	4	2	5	4	3	4	NGO Worker
+1	2	3	2	1	4	4	2	3	5	5	3	2	4	2	5	5	3	4	Community Development Officer
+1	2	1	2	1	3	4	2	4	5	5	4	2	5	2	5	5	3	2	Life Coach
+1	1	3	1	1	2	4	4	3	5	3	5	2	5	2	3	4	5	1	Lawyer
+1	1	3	1	1	1	3	4	2	4	2	5	2	4	1	3	4	5	1	Judge
+2	1	3	1	1	2	4	4	3	5	3	5	3	4	1	2	3	5	1	Legal Consultant
+2	1	3	1	1	2	5	4	3	5	3	4	3	4	1	3	5	4	1	Policy Maker
+1	2	2	2	1	5	5	3	3	5	4	4	3	4	2	3	5	4	3	Diplomat
+2	1	3	1	1	2	4	4	2	4	3	4	3	3	1	3	4	5	2	Civil Servant
+1	1	2	1	1	2	3	3	2	4	3	5	2	2	1	4	4	4	5	Police Officer
+1	3	2	3	5	3	3	1	5	4	3	4	2	2	2	3	3	4	4	Chef
+2	1	5	1	1	5	3	5	2	4	2	5	5	1	1	1	4	5	3	Pilot
+1	1	2	1	1	3	2	2	2	4	3	4	2	1	2	2	3	3	5	Athlete
+1	1	2	1	1	3	3	2	3	5	4	4	2	2	2	5	4	3	5	Personal Trainer
+1	1	2	1	1	2	2	3	2	3	2	4	3	1	1	2	2	4	4	Plumber
+2	1	4	1	1	1	2	4	2	3	2	5	4	1	1	1	2	4	4	Electrician
+1	2	2	3	1	1	2	3	4	3	2	4	3	1	1	1	2	4	5	Carpenter
+2	5	4	4	1	3	3	4	5	4	2	5	4	2	2	2	3	5	2	Architect
+2	4	4	3	1	3	4	4	4	4	2	5	4	3	1	3	4	5	2	Urban Planner
+1	4	3	4	1	4	3	2	5	3	2	4	3	2	2	3	3	4	3	Landscape Designer
+1	2	1	4	1	3	3	2	5	4	2	3	2	3	5	2	2	3	2	Musician
+2	3	2	3	1	2	4	3	5	4	2	4	4	3	5	2	3	4	1	Music Producer
+3	2	3	2	1	2	3	4	4	3	2	5	5	2	5	1	2	5	1	Sound Engineer
+1	3	1	4	1	3	3	1	5	5	4	3	2	4	4	3	3	3	2	Actor
+1	4	1	5	1	3	3	1	5	5	4	4	2	3	4	3	3	3	5	Dance Choreographer
+1	4	1	5	1	3	4	2	5	5	4	4	3	5	4	3	5	4	2	Theater Director
+1	3	3	3	1	5	4	2	4	5	5	3	3	3	2	4	4	3	4	Travel Guide
+1	3	1	3	4	2	2	2	4	4	3	3	2	2	2	5	3	4	3	Home Maker
+1	4	2	5	1	2	3	1	5	4	3	3	2	2	2	3	2	4	2	Florist
+1	2	3	3	1	2	2	3	3	4	1	3	3	5	2	3	2	5	1	Librarian
+1	1	3	2	1	1	2	3	2	3	1	3	3	4	1	2	1	5	1	Archivist
+1	1	2	2	1	3	2	3	3	5	2	3	2	5	3	3	2	5	1	Translator
+1	1	2	2	1	3	2	3	3	5	3	3	2	5	3	3	3	4	1	Interpreter

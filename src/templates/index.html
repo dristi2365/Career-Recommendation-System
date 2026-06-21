@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Career Recommender</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Simple Custom CSS -->
+    <style>
+        body {
+            background-color: #f4f6f9;
+            font-family: Arial, sans-serif;
+        }
+
+        .card-box {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        h1 {
+            text-align: center;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
+        p.subtitle {
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #34495e;
+        }
+
+        .form-select {
+            border-radius: 6px;
+        }
+
+        .btn-primary {
+            background-color: #0d6efd;
+            border: none;
+            border-radius: 6px;
+            padding: 10px 20px;
+            font-weight: 500;
+        }
+
+        .btn-primary:hover {
+            background-color: #0b5ed7;
+        }
+
+        .table thead {
+            background-color: #0d6efd;
+            color: white;
+        }
+
+        .table {
+            border-radius: 8px;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container mt-5 mb-5">
+    <div class="card-box">
+
+        <h1>Career Recommender</h1>
+        <p class="subtitle">
+            Select your interest level (1 = Low, 5 = High)
+        </p>
+
+        <form method="POST">
+            <div class="row">
+                {% for col in [
+                    'interest_coding','interest_design','interest_science',
+                    'interest_art','interest_cooking','interest_travel',
+                    'interest_business','math_skill','creativity',
+                    'communication','introvert_extrovert','problem_solving'
+                ] %}
+                <div class="col-md-3 col-sm-6 mb-3">
+                    <label for="{{ col }}" class="form-label">
+                        {{ col.replace('_',' ').title() }}
+                    </label>
+                    <select class="form-select" name="{{ col }}" id="{{ col }}">
+                        {% for i in range(1,6) %}
+                        <option value="{{ i }}">{{ i }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary mt-3">
+                    Get Top 5 Careers
+                </button>
+            </div>
+        </form>
+
+        {% if top5 %}
+        <h2 class="mt-5 text-center">Recommended Careers</h2>
+
+        <table class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Career</th>
+                    <th>Similarity Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for career, score in top5 %}
+                <tr>
+                    <td>{{ career }}</td>
+                    <td>{{ "{:.2f}".format(score) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+
+    </div>
+</div>
+
+</body>
+</html>
