@@ -34,7 +34,7 @@ scores are recommended as the best matches.
 ```
 career-recommendation-system/
     data/
-        career_data_v2.csv      # 167 career profiles with 19 features
+        career_data.csv      # 167 career profiles with 19 features
     src/
         app.py                  # Flask backend and recommendation logic
         career.ipynb            # Model development and similarity testing
