@@ -1,3 +1,10 @@
+
+<img width="1890" height="905" alt="image" src="https://github.com/user-attachments/assets/561391a9-8475-4ffd-aab0-d4bb51868bdd" />
+
+<img width="1882" height="820" alt="image" src="https://github.com/user-attachments/assets/18bd0970-26eb-4ed8-a769-6f0c49258f38" />
+
+<img width="1877" height="777" alt="image" src="https://github.com/user-attachments/assets/5e9a4bdb-5cb5-4734-b4c4-28b8d9b0d3b0" />
+
 # Career Compass 🧭
 
 A web-based career recommendation system that suggests suitable career 
